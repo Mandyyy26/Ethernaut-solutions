@@ -10,6 +10,7 @@ My solutions and writeups for the [Ethernaut](https://ethernaut.openzeppelin.com
 | 04    | Telephone  | Completed |
 | 05    | Token      | Completed |
 | 06    | Delegation | Completed |
+| 07    | Force      | Completed |
 
 Each folder includes:
 
