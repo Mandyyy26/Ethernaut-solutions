@@ -2,17 +2,18 @@
 
 My solutions and writeups for the [Ethernaut](https://ethernaut.openzeppelin.com/) challenges.
 
-| Level | Name       | Status     |
-| ----- | ---------- | ---------- |
-| 01    | Fallback   | Completed  |
-| 02    | Fallout    | Completed  |
-| 03    | CoinFlip   | Completed  |
-| 04    | Telephone  | Completed  |
-| 05    | Token      | Completed  |
-| 06    | Delegation | Completed  |
-| 07    | Force      | Completed  |
-| 08    | Vault      | Completed  |
-| 09    | King       | Pending... |
+| Level | Name        | Status     |
+| ----- | ----------- | ---------- |
+| 01    | Fallback    | Completed  |
+| 02    | Fallout     | Completed  |
+| 03    | CoinFlip    | Completed  |
+| 04    | Telephone   | Completed  |
+| 05    | Token       | Completed  |
+| 06    | Delegation  | Completed  |
+| 07    | Force       | Completed  |
+| 08    | Vault       | Completed  |
+| 09    | King        | Completed  |
+| 10    | Re-entrancy | Pending... |
 
 Each folder includes:
 
