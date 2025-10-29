@@ -13,7 +13,8 @@ My solutions and writeups for the [Ethernaut](https://ethernaut.openzeppelin.com
 | 07    | Force       | Completed  |
 | 08    | Vault       | Completed  |
 | 09    | King        | Completed  |
-| 10    | Re-entrancy | Pending... |
+| 10    | Re-entrancy | Completed  |
+| 11    | Re-entrancy | Pending... |
 
 Each folder includes:
 
